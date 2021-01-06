@@ -2,7 +2,7 @@
 Date : 109 / 03 / 02
 
 # Motivation & Purpose
-Side Project for WatchKit and CoreBluetooth
+Side Project - WatchKit and CoreBluetooth
 
 1. WatchKit
 2. CoreBluetooth
