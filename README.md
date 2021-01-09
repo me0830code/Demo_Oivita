@@ -1,5 +1,5 @@
 # Oivita
-Date : 109 / 03 / 02
+Date : 2020 / 03 / 02
 
 # Motivation & Purpose
 Side Project - WatchKit and CoreBluetooth
@@ -18,13 +18,11 @@ Side Project - WatchKit and CoreBluetooth
 
 Play Vibration Pattern
 
-![](https://i.imgur.com/mLwVYGt.png)
+<img src = "https://i.imgur.com/mLwVYGt.png" width = "100" />
 
 Sensor Detection
 
-![](https://i.imgur.com/KMYQC7d.png)
-
-![](https://i.imgur.com/JtSNGNl.png)
+<img src = "https://i.imgur.com/KMYQC7d.png" width = "100" /> <img src = "https://i.imgur.com/JtSNGNl.png" width = "100" />
 
 # Contacts
 Chien-Yu Yeh
