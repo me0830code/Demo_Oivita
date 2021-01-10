@@ -7,7 +7,7 @@ Side Project - WatchKit and CoreBluetooth
 1. WatchKit
 2. CoreBluetooth
 3. Notification
-4. Extension App
+4. Independent Watch App
 5. MVC Design Pattern
 
 # App Store
